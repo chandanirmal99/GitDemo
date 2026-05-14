@@ -1,0 +1,11 @@
+git config --global user.name "chandan99"
+git config --global user.email "chandanirmal99"
+cd Gitstuff
+git init
+git add *
+git add*
+git add *
+git status
+git commit -m "first commit"
+ipconfig > output.txt
+doskey /history > commands.txt
