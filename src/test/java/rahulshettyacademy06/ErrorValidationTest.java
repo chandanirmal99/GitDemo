@@ -43,6 +43,12 @@ public class ErrorValidationTest extends BaseTest {
 	}
 
 	
+@Test
 	
+	public void go() {
+		System.out.println("I am ok");
+		System.out.println("I am sad");
+	}
+
 
 }
