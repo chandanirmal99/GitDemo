@@ -34,8 +34,21 @@ public class ErrorValidationTest extends BaseTest {
 		Boolean match = cartPage.verifyProductDisplay("ZARA COAT 33"); // // (Since here it return boolean and variable is required in next validation)
 		Assert.assertFalse(match);
 	}
+	
+	@Test
+	
+	public void Demo() {
+		System.out.println("I am fine");
+		System.out.println("I am happy");
+	}
 
 	
+@Test
 	
+	public void go() {
+		System.out.println("I am ok");
+		System.out.println("I am sad");
+	}
+
 
 }
