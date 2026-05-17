@@ -105,10 +105,7 @@ public class BaseTest {
 		FileUtils.copyFile(source, file);
 		return System.getProperty("user.dir")+ "//reports//"+testCaseName+".png";
 		
-		//fine 
-		//ok
-		//go back
-		}
+	}
 
 	@AfterMethod(alwaysRun = true)
 	public void tearDown() {
