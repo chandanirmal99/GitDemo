@@ -12,16 +12,6 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/Chandan Irmal/.m2/repository/org/seleniumhq/selenium/selenium-api/4.36.0/selenium-api-4.36.0.jar" sourcepath="C:/Users/Chandan Irmal/.m2/repository/org/seleniumhq/selenium/selenium-api/4.36.0/selenium-api-4.36.0-sources.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-			<attribute name="maven.pomderived" value="true"/>
-			<attribute name="maven.groupId" value="org.seleniumhq.selenium"/>
-			<attribute name="maven.artifactId" value="selenium-api"/>
-			<attribute name="maven.version" value="4.36.0"/>
-			<attribute name="maven.scope" value="compile"/>
-		</attributes>
-	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
 		<attributes>
 			<attribute name="maven.pomderived" value="true"/>
@@ -52,7 +42,6 @@
 	<classpathentry kind="lib" path="C:/Users/Chandan Irmal/Downloads/commons-io-2.21.0-bin/commons-io-2.21.0/commons-io-2.21.0-sources.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Chandan Irmal/Downloads/commons-io-2.21.0-bin/commons-io-2.21.0/commons-io-2.21.0-tests.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Chandan Irmal/Downloads/commons-io-2.21.0-bin/commons-io-2.21.0/commons-io-2.21.0-test-sources.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Chandan Irmal/Downloads/selenium-java-4.39.0/auto-service-annotations-1.1.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Chandan Irmal/Downloads/selenium-java-4.39.0/auto-service-annotations-1.1.1-sources.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Chandan Irmal/Downloads/selenium-java-4.39.0/byte-buddy-1.18.2.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Chandan Irmal/Downloads/selenium-java-4.39.0/byte-buddy-1.18.2-sources.jar"/>
@@ -70,5 +59,23 @@
 	<classpathentry kind="lib" path="C:/Users/Chandan Irmal/Downloads/selenium-java-4.39.0/jspecify-1.0.0-sources.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Chandan Irmal/Downloads/selenium-java-4.39.0/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Chandan Irmal/Downloads/selenium-java-4.39.0/selenium-chromium-driver-4.39.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chandan Irmal/.m2/repository/org/seleniumhq/selenium/selenium-api/4.41.0/selenium-api-4.41.0.jar" sourcepath="C:/Users/Chandan Irmal/.m2/repository/org/seleniumhq/selenium/selenium-api/4.41.0/selenium-api-4.41.0-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.seleniumhq.selenium"/>
+			<attribute name="maven.artifactId" value="selenium-api"/>
+			<attribute name="maven.version" value="4.41.0"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Chandan Irmal/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/4.41.0/selenium-chrome-driver-4.41.0.jar" sourcepath="C:/Users/Chandan Irmal/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/4.41.0/selenium-chrome-driver-4.41.0-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.seleniumhq.selenium"/>
+			<attribute name="maven.artifactId" value="selenium-chrome-driver"/>
+			<attribute name="maven.version" value="4.41.0"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
