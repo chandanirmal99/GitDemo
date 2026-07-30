@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;rahulshettyacademy06.confirmationPage&apos; to &apos;ConfirmationPage&apos;&#x0D;&#x0A;- Original project: &apos;SeleniumFrameworkDesign06&apos;&#x0D;&#x0A;- Original element: &apos;rahulshettyacademy06.confirmationPage&apos;&#x0D;&#x0A;- Renamed element: &apos;rahulshettyacademy06.ConfirmationPage&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;confirmationPage&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;rahulshettyacademy06{confirmationPage.java[confirmationPage" matchStrategy="1" name="ConfirmationPage" qualified="false" references="true" similarDeclarations="false" stamp="1773172548573" textual="false" version="1.0"/>
+</session>
