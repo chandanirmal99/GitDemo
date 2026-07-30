@@ -244,7 +244,7 @@
                 <tags>categoryTag:Java</tags>
               </children>
             </children>
-            <children xsi:type="basic:PartSashContainer" xmi:id="_cpFNm2yYEfGGmtJYxunCfQ" containerData="7500" selectedElement="_cpFNpmyYEfGGmtJYxunCfQ">
+            <children xsi:type="basic:PartSashContainer" xmi:id="_cpFNm2yYEfGGmtJYxunCfQ" containerData="7500" selectedElement="_cpFNnGyYEfGGmtJYxunCfQ">
               <children xsi:type="basic:PartSashContainer" xmi:id="_cpFNnGyYEfGGmtJYxunCfQ" containerData="7522" selectedElement="_cpFNnWyYEfGGmtJYxunCfQ" horizontal="true">
                 <children xsi:type="advanced:Placeholder" xmi:id="_cpFNnWyYEfGGmtJYxunCfQ" elementId="org.eclipse.ui.editorss" containerData="6500" ref="_cpF1xWyYEfGGmtJYxunCfQ"/>
                 <children xsi:type="basic:PartStack" xmi:id="_cpFNnmyYEfGGmtJYxunCfQ" elementId="org.eclipse.debug.internal.ui.OutlineFolderView" toBeRendered="false" containerData="3500">
@@ -954,7 +954,7 @@
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
         </children>
         <children xsi:type="basic:Part" xmi:id="_zt6_4IxGEfGtRZmQTvEyaA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="ConsoleLogsCapture.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ConsoleLogsCapture.java&quot; partName=&quot;ConsoleLogsCapture.java&quot; title=&quot;ConsoleLogsCapture.java&quot; tooltip=&quot;SeleniumFeaturesLatest/src/ConsoleLogsCapture.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/SeleniumFeaturesLatest/src/ConsoleLogsCapture.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1026&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ConsoleLogsCapture.java&quot; partName=&quot;ConsoleLogsCapture.java&quot; title=&quot;ConsoleLogsCapture.java&quot; tooltip=&quot;SeleniumFeaturesLatest/src/ConsoleLogsCapture.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/SeleniumFeaturesLatest/src/ConsoleLogsCapture.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1042&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>removeOnHide</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
@@ -1294,7 +1294,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_cpHDMGyYEfGGmtJYxunCfQ" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_s1rVsIxGEfGtRZmQTvEyaA" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_cpL7Y2yYEfGGmtJYxunCfQ"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_8xhfoIxMEfGtgpLy3kZnfg" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_cpL7Y2yYEfGGmtJYxunCfQ"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_cpHDPWyYEfGGmtJYxunCfQ" elementId="group.edit" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -1325,7 +1325,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_cpHDeGyYEfGGmtJYxunCfQ" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_s1uZAIxGEfGtRZmQTvEyaA" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" enabled="false" type="Check" command="_cpKudWyYEfGGmtJYxunCfQ"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_8xmYJIxMEfGtgpLy3kZnfg" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" enabled="false" type="Check" command="_cpKudWyYEfGGmtJYxunCfQ"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_cpHDhWyYEfGGmtJYxunCfQ" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
